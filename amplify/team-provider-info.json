@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-chimevideoconference-dev-140625-authRole",
+            "UnauthRoleArn": "arn:aws:iam::404939530738:role/amplify-chimevideoconference-dev-140625-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::404939530738:role/amplify-chimevideoconference-dev-140625-authRole",
+            "Region": "ap-southeast-1",
+            "DeploymentBucketName": "amplify-chimevideoconference-dev-140625-deployment",
+            "UnauthRoleName": "amplify-chimevideoconference-dev-140625-unauthRole",
+            "StackName": "amplify-chimevideoconference-dev-140625",
+            "StackId": "arn:aws:cloudformation:ap-southeast-1:404939530738:stack/amplify-chimevideoconference-dev-140625/ff57b3e0-c017-11ea-a461-02f584878410",
+            "AmplifyAppId": "d1n41nn3f8z90e"
+        },
+        "categories": {
+            "auth": {
+                "chimevideoconference8307d7c0": {}
+            }
+        }
+    }
+}

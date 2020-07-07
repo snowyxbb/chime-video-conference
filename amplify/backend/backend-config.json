@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"chimevideoconference8307d7c0": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
