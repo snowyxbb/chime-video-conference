@@ -2,7 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-import { withAuthenticator } from '@aws-amplify/ui-react'
+//import { withAuthenticator } from '@aws-amplify/ui-react'
 
 function App() {
   return (
@@ -25,4 +25,5 @@ function App() {
   );
 }
 
-export default withAuthenticator(App)
+export default App;
+//export default withAuthenticator(App)
